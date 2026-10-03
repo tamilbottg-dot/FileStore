@@ -19,8 +19,8 @@ API_ID = "22941581"
 API_HASH = "d0d322e81ed30b7f4a7aa0e1795d1935"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://tamilbottg_db_user:1234567890@cluster0.be7adhu.mongodb.net/?appName=Cluster0"
-DB_NAME = "tamilbottg_db_user"
+DB_URI = "mongodb+srv://kgf97781_db_user:tPJgPDzG75xrEHJR@cluster0.awbenpu.mongodb.net/?appName=Cluster0"
+DB_NAME = "kgf97781_db_user"
 
 FSUBS = [[-1003916924104, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
