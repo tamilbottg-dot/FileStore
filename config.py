@@ -13,7 +13,7 @@ SHORT_API = ""
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "Bot"
+SESSION = "filestore"
 TOKEN = "8459431948:AAEM14wanIt_7AlhVQ3AsPcKlGrIJuKUXBg"
 API_ID = "22941581"
 API_HASH = "d0d322e81ed30b7f4a7aa0e1795d1935"
