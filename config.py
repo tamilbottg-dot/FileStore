@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 5816147544
 
 MSG_EFFECT = 5046509860389126442
 
@@ -13,18 +13,18 @@ SHORT_API = ""
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+SESSION = "BQFwyZ4AKSNRV4T14shKVKZQmTzliZGae_467LvTAuQWoRVn1zVoN3UygPbjtSZeOMvJ88SSej1oksAvURELFDdk1qoRsDQ_0F0yARo7i7vMVGKzXapp1sogczJDSpI_bg40YxiiX1oDejVRLxRZrzKzHE1rq6yVt2k4NFjR23IAY5b_vYOL4JGdQvCgTrH-t9pPfs6fjNbtdyCexLZoe8L4qdRe6v3cXXe8QqBmXkr-xsDY7EaOSVmXw_AYhlsxDKWBcISaIrvyhrZikEoTzrZHEEAN7cM5MFizQZpRaUQJX48L4yzWpLWnOh99YmTOL-2tIwGMv0J2ApkHip9eezDsis5QqQAAAAH4OLAMAQ"
+TOKEN = "8459431948:AAEM14wanIt_7AlhVQ3AsPcKlGrIJuKUXBg"
+API_ID = "22941581"
+API_HASH = "d0d322e81ed30b7f4a7aa0e1795d1935"
 WORKERS = 5
 
-DB_URI = "mongodb"
-DB_NAME = "yato"
+DB_URI = "mongodb+srv://tamilbottg_db_user:1234567890@cluster0.be7adhu.mongodb.net/?appName=Cluster0"
+DB_NAME = "tamilbottg_db_user"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003916924104, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL = " -1003321966641"   # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
@@ -33,7 +33,7 @@ DB_CHANNEL =    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [5816147544]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True
